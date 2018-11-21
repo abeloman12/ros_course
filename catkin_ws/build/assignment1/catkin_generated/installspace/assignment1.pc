@@ -1,0 +1,8 @@
+prefix=/home/abel/ros/catkin_ws/install
+
+Name: assignment1
+Description: Description of assignment1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/abel/ros/catkin_ws/install/lib 
+Requires: 
